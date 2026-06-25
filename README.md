@@ -561,6 +561,7 @@ Platforms for building, deploying, and scaling voice-based AI agents across call
 - [PolyAI](https://poly.ai/en) - Enterprise voice AI platform for natural multi-turn conversations with high-volume call handling (🏷️ `Cloud` `Enterprise` `Platform`).
 - [Retell AI](https://www.retellai.com) - Builds human-like voice agents with multi-language telephony support and low-latency responses (🏷️ `Cloud` `Telephony` `API`).
 - [Synthesia](https://www.synthesia.io) - Generates AI video avatars that speak in 120+ languages for training and communication agents (🏷️ `Cloud` `Avatar` `Web`).
+- [Hermes](https://www.buildwithhermes.com) - White-label voice agent platform for agencies, bundles native CRM, campaign orchestration, telephony, and transparent usage billing so one platform replaces the Retell plus GoHighLevel plus Zapier plus Stripe stack. From $149/mo (🏷️ `Cloud` `Agency` `Platform`).
 - [Synthflow](https://synthflow.ai) - No-code voice agent builder with pre-built templates for SMBs to deploy phone agents quickly (🏷️ `Cloud` `No-Code` `Platform`).
 - [Voiceflow](https://www.voiceflow.com) - No-code builder for voice and chat agents with visual conversation design and team collaboration (🏷️ `Cloud` `No-Code` `Platform`).
 
